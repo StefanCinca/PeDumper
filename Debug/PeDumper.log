@@ -1,0 +1,31 @@
+﻿  Source.cpp
+f:\bitdefender\pedumper\pedumper\source.cpp(69): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(76): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(83): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(89): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(95): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(104): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(114): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(121): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(128): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(135): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(142): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(152): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(160): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(169): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(175): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(186): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(203): warning C4018: '<': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(207): warning C4018: '<': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(213): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(218): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(224): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(229): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(235): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(254): warning C4018: '>': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(262): warning C4018: '<': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(295): warning C4018: '<': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(298): warning C4018: '<': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(305): warning C4018: '>=': signed/unsigned mismatch
+f:\bitdefender\pedumper\pedumper\source.cpp(317): warning C4477: 'printf' : format string '%x' requires an argument of type 'unsigned int', but variadic argument 2 has type 'BYTE *'
+  PeDumper.vcxproj -> F:\BitDefender\PeDumper\Debug\PeDumper.exe
